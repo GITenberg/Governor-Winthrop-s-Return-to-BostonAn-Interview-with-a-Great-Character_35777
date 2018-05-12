@@ -1,0 +1,28 @@
+_repo: Governor-Winthrop-s-Return-to-BostonAn-Interview-with-a-Great-Character_35777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warren, George Washington
+    alias: Warren, G. Washington (George Washington)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '37896'
+    url: http://www.gutenberg.org/2009/agents/37896
+description: ''
+gutenberg_issued: '2011-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35777'
+  lccn: '31025140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Winthrop, John, 1588-1649 -- Poetry'
+title: 'Governor Winthrop''s Return to Boston: An Interview with a Great Character'
+url: http://www.gutenberg.org/ebooks/35777
