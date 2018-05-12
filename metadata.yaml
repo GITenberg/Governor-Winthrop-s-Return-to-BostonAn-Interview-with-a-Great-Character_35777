@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37896'
     url: http://www.gutenberg.org/2009/agents/37896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35777#Governor-Winthrop-s-Return-to-BostonAn-Interview-with-a-Great-Character
 gutenberg_issued: '2011-04-06'
 gutenberg_type: Text
 identifiers:
